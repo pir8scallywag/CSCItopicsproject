@@ -1,11 +1,16 @@
 # CSCI 4905/6905 Intelligent Systems Visualization Container Project
 
-<u><h2>Team Members:</u>
+<u><h2>Team Members:</h2></u>
 <h3>
 <p><li>James Kinlaw</li>
   <li>Deidre Whitehead</li>
   <li>Jaione Ivey
-</li></p>
+</li></p></h3>
+
+<br>
+
+<p>The data set we are using comes from historical data recored around the globe and it is easily accessible at <a href="https://figshare.com/articles/dataset/temperature_csv/3171766/1">https://figshare.com/articles/dataset/temperature_csv/3171766/1</a>
+
 <image src="/Users/jameskinlaw/PycharmProjects/CSCItopicsproject/main.svg"/>
 
 
