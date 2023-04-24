@@ -1,4 +1,21 @@
 # CSCI 4905/6905 Intelligent Systems Visualization Container Project
+
+<u><h2>Team Members:</u>
+<h3>
+<p><li>James Kinlaw</li>
+  <li>Deidre Whitehead</li>
+  <li>Jaione Ivey
+</li></p>
+
+
+
+This is our final project for CSCI 4905 Intelligent Systems.
+
+
+
+
+
+
 This repository houses the files and instructions for the CSCI 4905/6905 Intelligent Systems Spring 2023 project.   
 
 
