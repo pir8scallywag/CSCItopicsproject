@@ -6,7 +6,7 @@
   <li>Deidre Whitehead</li>
   <li>Jaione Ivey
 </li></p>
-
+<image src="/Users/jameskinlaw/PycharmProjects/CSCItopicsproject/main.svg"/>
 
 
 This is our final project for CSCI 4905 Intelligent Systems.
